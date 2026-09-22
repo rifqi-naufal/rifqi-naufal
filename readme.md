@@ -4,6 +4,8 @@
 
 > Architecting intelligent web solutions with a focus on clean logic, AI integration, and high-performance backend systems.
 
+[![Personal Website](https://img.shields.io/badge/Website-rifqi--naufal.my.id-14191E?style=for-the-badge&logo=globe&logoColor=white)](https://rifqi-naufal.my.id/)
+
 ## 👨‍💻 About Me
 
 I am a Fullstack Web Developer who bridges the gap between backend systems and user interfaces. I specialize in building data-driven applications, integrating AI capabilities to automate workflows, and ensuring everything runs on a scalable architecture. I don't just write code; I design the conceptual flow and system logic to ensure every feature serves a purpose.
