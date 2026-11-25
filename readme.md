@@ -4,7 +4,7 @@
 
 > Architecting intelligent web solutions with a focus on clean logic, AI integration, and high-performance backend systems.
 
-[![Personal Website](https://img.shields.io/badge/Website-rifqi--naufal.my.id-14191E?style=for-the-badge&logo=globe&logoColor=white)](https://rifqinaufal.com/)
+[![Personal Website](https://img.shields.io/badge/Website-rifqinaufal.com-14191E?style=for-the-badge&logo=globe&logoColor=white)](https://rifqinaufal.com/)
 
 ## 👨‍💻 About Me
 
